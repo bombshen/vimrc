@@ -11,6 +11,7 @@ There are two versions:
 
 I would, of course, recommend using the awesome version.
 
+""" vim-code-dark  vim-cpp-enhanced-highlight
 
 ## How to install the Awesome version?
 ### Install for your own user only
